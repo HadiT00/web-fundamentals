@@ -1,0 +1,56 @@
+body {
+  background-image: url(../image/background.png);
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+#HarryPotter {
+  background-image: url(../image/A_Harry_Potter_logo.png);
+  height: 148px;
+  width: 340px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#logoke {
+  background-image: url(../image/902d467b9fc6e0f8cd66c6c5c0a73fd1.png);
+  height: 407px;
+  width: 523px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+button {
+  position: relative;
+  background-color: blue;
+  width: 200px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid yellow;
+  color: white;
+  cursor: pointer;
+  left: 550px;
+}
+.account {
+  text-align: center;
+  margin-top: 100px;
+}
+#Descirption {
+  height: 200px;
+}
+#MaleFemale {
+  background-image: url(../image/mf.png);
+  height: 219px;
+  width: 231px;
+  background-repeat: no-repeat;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
